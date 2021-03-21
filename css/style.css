@@ -159,6 +159,31 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* Menu - Place Order Button*/
+.ordering-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 34px 26px 34px;
+}
+
+.ordering-btn .place-order{
+    height: 48px;
+    width: 184px;
+    font-size: 1.5rem;
+    border: 1px solid white;
+    border-radius: 24px;
+    background: orange;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
+
+.ordering-btn .menu-icon{
+    padding: 10px;
+}
 
 
 /* Contact Styling */
